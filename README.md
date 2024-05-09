@@ -38,6 +38,7 @@ python main.py
 ## Description of the dataset
 #### suspicious tweets.csv
 *Contains 2 columns: messaga(Content of tweets), label(1:non-suspicious, 0:suspicious)
+
 *This dataset was downloaded from https://www.kaggle.com/datasets/syedabbasraza/suspicious-tweets
 
 ## Libraries required:

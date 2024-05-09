@@ -1,39 +1,39 @@
 
 ## How to run
-Just run the main.py file. 
+*Just run the main.py file. 
 ```bash
 python main.py
 ```
-You will see the result figure after running, when you turn off the current figure the next figure will be displayed.
+*You will see the result figure after running, when you turn off the current figure the next figure will be displayed.
 
 ## The role of each file
 #### main.py: 
 ```
-Read datasets; 
-Data preprocessing;
-Create model;
-Training and evaluating models(CNN, GRU, LSTM, Transformer);
-Print and plot results;
-Compare different models' performance.
+*Read datasets; 
+*Data preprocessing;
+*Create model;
+*Training and evaluating models(CNN, GRU, LSTM, Transformer);
+*Print and plot results;
+*Compare different models' performance.
 ```
 #### CNN_Model/model.py: 
-Build a CNN model.
+*Build a CNN model.
 
 #### GRU_Model/model.py: 
-Build a GRU model.
+*Build a GRU model.
 
 #### LSTM_Model/model.py: 
-Build a LSTM model.
+*Build a LSTM model.
 
 #### Transformer_Model/model.py: 
-Build a Transformer model.
+*Build a Transformer model.
 
 
 
 ## Description of the dataset
 #### suspicious tweets.csv
-Contains 2 columns: messaga(Content of tweets), label(1:non-suspicious, 0:suspicious)
-This dataset was downloaded from https://www.kaggle.com/datasets/syedabbasraza/suspicious-tweets
+*Contains 2 columns: messaga(Content of tweets), label(1:non-suspicious, 0:suspicious)
+*This dataset was downloaded from https://www.kaggle.com/datasets/syedabbasraza/suspicious-tweets
 
 ## package required:
 ```bash

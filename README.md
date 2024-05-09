@@ -8,13 +8,14 @@ You will see the result figure after running, when you turn off the current figu
 
 ## The role of each file
 #### main.py: 
+```bash
 Read datasets; 
 Data preprocessing;
 Create model;
 Training and evaluating models(CNN, GRU, LSTM, Transformer);
 Print and plot results;
-compare different models' performance.
-
+Compare different models' performance.
+```
 #### CNN_Model/model.py: 
 Build a CNN model.
 

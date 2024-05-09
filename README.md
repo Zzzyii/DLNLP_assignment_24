@@ -10,10 +10,15 @@ python main.py
 #### main.py: 
 
 *Read datasets; 
+
 *Data preprocessing;
+
 *Create model;
+
 *Training and evaluating models(CNN, GRU, LSTM, Transformer);
+
 *Print and plot results;
+
 *Compare different models' performance.
 
 #### CNN_Model/model.py: 

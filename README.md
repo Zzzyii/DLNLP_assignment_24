@@ -8,14 +8,14 @@ python main.py
 
 ## The role of each file
 #### main.py: 
-```
+
 *Read datasets; 
 *Data preprocessing;
 *Create model;
 *Training and evaluating models(CNN, GRU, LSTM, Transformer);
 *Print and plot results;
 *Compare different models' performance.
-```
+
 #### CNN_Model/model.py: 
 *Build a CNN model.
 
@@ -38,11 +38,11 @@ python main.py
 ## package required:
 ```bash
 
-- numpy==1.19.2
-- pandas==1.1.3
-- matplotlib==3.3.2
-- scikit-learn==0.23.2
-- tensorflow==2.3.1
+numpy==1.19.2
+pandas==1.1.3
+matplotlib==3.3.2
+scikit-learn==0.23.2
+tensorflow==2.3.1
 
 ```
 
